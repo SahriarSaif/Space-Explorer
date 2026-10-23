@@ -15,10 +15,11 @@ Interactive 3D space experience using Three.js, featuring galaxies, black holes,
 HTML, CSS, JavaScript, Three.js, WebGL, Canvas API
 
 Imports: OrbitControls, EffectComposer, RenderPass, UnrealBloomPass, OutputPass
-
+## Live Demo
+https://sahriarsaif.com/projects/space-explorer.html
 ## Preview
 
-![Preview](preview.gif)
+![Preview](preview.mp4)
 
 ## Developer
 
