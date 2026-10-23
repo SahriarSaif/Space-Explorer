@@ -1,4 +1,4 @@
-## 🌌 Space Explorer
+# 🌌 Space Explorer
 
 Interactive 3D space experience using Three.js, featuring galaxies, black holes, and the solar system.
 
