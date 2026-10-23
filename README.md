@@ -1,42 +1,26 @@
 🌌 Space Explorer
 
-An interactive 3D space experience built with Three.js. Explore galaxies, black holes, and the solar system.
+Interactive 3D space experience using Three.js, featuring galaxies, black holes, and the solar system.
 
-🎬 Preview
+Features
 
-"Space Explorer Preview" (preview.gif)
+- Explore 3D galaxies with morphing effects
+- Interactive black hole simulation
+- Solar system with 9 planets
+- Customizable colors and camera controls
+- Bloom effects and responsive UI
 
-✨ Features
+Technologies
 
-- Interactive 3D galaxy with morphing effects
-- Black hole with animated accretion disk
-- Solar system with 9 selectable planets
-- Custom galaxy colors and presets
-- Interactive camera controls and bloom effects
-- Responsive glassmorphism UI
+HTML, CSS, JavaScript, Three.js, WebGL, Canvas API
 
-🛠️ Technologies
+Imports: OrbitControls, EffectComposer, RenderPass, UnrealBloomPass, OutputPass
 
-- HTML5, CSS3, JavaScript (ES Modules)
-- Three.js "v0.160.0"
-- WebGL and Canvas API
+Preview
 
-Imported Modules:
+"Preview" (preview.gif)
 
-- "OrbitControls" — Camera navigation
-- "EffectComposer" — Post-processing
-- "RenderPass" — Scene rendering
-- "UnrealBloomPass" — Glow effects
-- "OutputPass" — Final rendering output
+Developer
 
-🚀 Live Demo
-
-"Explore Space Explorer" (https://sahriarsaif.com/projects/space-explorer.html)
-
-👨‍💻 Developer
-
-"Sahriar Saif" (https://github.com/SahriarSaif) · "Portfolio" (https://sahriarsaif.com)
-
----
-
-Made with ❤️ by Sahriar Saif
+Sahriar Saif
+https://github.com/SahriarSaif
