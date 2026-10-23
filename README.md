@@ -18,7 +18,7 @@ Imports: OrbitControls, EffectComposer, RenderPass, UnrealBloomPass, OutputPass
 
 ## Preview
 
-"Preview" (preview.gif)
+![Preview](preview.gif)
 
 ## Developer
 
