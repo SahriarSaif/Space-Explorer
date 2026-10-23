@@ -19,7 +19,7 @@ Imports: OrbitControls, EffectComposer, RenderPass, UnrealBloomPass, OutputPass
 https://sahriarsaif.com/projects/space-explorer.html
 ## Preview
 
-![Preview](preview.mp4)
+![Preview](preview.gif)
 
 ## Developer
 
